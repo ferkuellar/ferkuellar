@@ -19,7 +19,7 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
       <td><a href="#"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter">           </a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">             </a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram">           </a></td>
-      <td><a href="#"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+      <td><a href="kuellarfer@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
 </table>
 
