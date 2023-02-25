@@ -35,7 +35,6 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
 - JavaScript.
 - Machine Learning.
 - Deep Learning.
-- Web Development.
 - R.
 - SQL.
 
