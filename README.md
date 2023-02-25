@@ -32,11 +32,13 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Python.
+- R.
+- SQL.
+- Tableu.
 - JavaScript.
 - Machine Learning.
 - Deep Learning.
-- R.
-- SQL.
+
 
 --------------------------------------
 
