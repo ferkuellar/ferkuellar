@@ -17,7 +17,7 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
   <tr>
       <td><a href="https://github.com/ferkuellar"><img src="https://img.shields.io/github/followers/ferkuellar?style=social"         alt="GitHub"></a></td>
       <td><a href="#"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter">           </a></td>
-      <td><a href="www.linkedin.com/in/fernando-cuellar-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">             </a></td>
+      <td><a href="https://www.linkedin.com/in/fernando-cuellar-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">             </a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram">           </a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
@@ -45,7 +45,7 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/"ferkuellar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=""ferkuellar" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/fernando-cuellar-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernando-cuellar-data-analyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fernando cuellar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fernando cuellar" height="30" width="40" /></a>
 <a href="https://kaggle.com/fernandocuellar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fernandocuellar" height="30" width="40" /></a>
 <a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
