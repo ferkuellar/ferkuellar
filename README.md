@@ -17,7 +17,7 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
   <tr>
       <td><a href="https://github.com/ferkuellar"><img src="https://img.shields.io/github/followers/ferkuellar?style=social"         alt="GitHub"></a></td>
       <td><a href="#"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter">           </a></td>
-      <td><a href="#"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">             </a></td>
+      <td><a href="https://www.linkedin.com/in/fernando-cuellar-b10841267/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">             </a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram">           </a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
