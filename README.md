@@ -25,7 +25,7 @@ In addition to my academic interests, I also like to travel, go to the gym, and 
 
 ## Education 📖:
 
-- Student Master of Computer Engineering at [UACH]((https://uach.mx/posgrado/maestria/maestria-en-ingenieria-en-computacion/))
+- Student Master of Computer Engineering at [UACH][((https://uach.mx/posgrado/maestria/maestria-en-ingenieria-en-computacion/))](https://uach.mx/posgrado/maestria/maestria-en-ingenieria-en-computacion/)
 - Student at [KeepCoding](https://keepcoding.io/) (High Performance Training Center in Programming and Technology.)
 - Student at [U-Camp](https://ucamp.io/) (Edtech platform focused on programming, design and web development.)
 
