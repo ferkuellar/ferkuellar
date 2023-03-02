@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ferkuellar)
  
-Student at Master of Computer Engineering | KeepCoding Bootcamp | U-Camp Bootcamp | Data Science | Machine Learning | Deep Learning | Web Development | JavaScript | Python | R
+Student at Master of Computer Engineering | Data Analyst | Machine Learning | Deep Learning | JavaScript | Python | R
 
 ## About 👨‍💻:
 I am a person very interested in the field of technology and engineering. As an industrial engineer in electronics, automation and communication, I have a broad understanding of how electronic systems work and how they can be used to improve the efficiency and effectiveness of industrial processes.
