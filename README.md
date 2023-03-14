@@ -13,16 +13,6 @@ I am also taking bootcamps in data analysis and web development, to keep you up 
 
 In addition to my academic interests, I also like to travel, go to the gym, and read. These interests suggest that I am a balanced and well-rounded person, with a focus on improving both my professional skills and your personal skills.
 
-<table>
-  <tr>
-      <td><a href="https://github.com/ferkuellar"><img src="https://img.shields.io/github/followers/ferkuellar?style=social"         alt="GitHub"></a></td>
-      <td><a href="#"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter">           </a></td>
-      <td><a href="https://www.linkedin.com/in/fernando-cuellar-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">             </a></td>
-      <td><a href="#"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram">           </a></td>
-      <td><a href="#"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
-  </tr>
-</table>
-
 ## Education 📖:
 
 - Student Master of Computer Engineering at [UACH](https://uach.mx/posgrado/maestria/maestria-en-ingenieria-en-computacion/)
