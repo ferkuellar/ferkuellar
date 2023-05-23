@@ -5,13 +5,13 @@
 Student at Master of Computer Engineering | Data Analyst | Machine Learning | Deep Learning | JavaScript | Python | R | Tableu
 
 ## About 👨‍💻:
-I am a person very interested in the field of technology and engineering. As an industrial engineer in electronics, automation and communication, I have a broad understanding of how electronic systems work and how they can be used to improve the efficiency and effectiveness of industrial processes.
+I am an aspiring big data who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
 
-Also, by studying for a master's degree in computer engineering, I am expanding my knowledge and skills in one of the most innovative and in-demand areas of technology.
+My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions.
 
-I am also taking bootcamps in data analysis and web development, to keep you up to date with current trends and skills in the job market.
+In my graduate studies, I’ve taken on various leadership roles, including mentoring three undergraduate interns, coordinating institute-wide research events for hundreds of people, and leading two journal clubs.
 
-In addition to my academic interests, I also like to travel, go to the gym, and read. These interests suggest that I am a balanced and well-rounded person, with a focus on improving both my professional skills and your personal skills.
+I'm interested in full-time data science or machine learning roles.
 
 ## Education 📖:
 
