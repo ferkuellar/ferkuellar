@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ferkuellar)
  
-Student at Master of Computer Engineering | Data Analyst | Machine Learning | Deep Learning | JavaScript | Python | R | Tableu
+Data Analyst | Machine Learning | Deep Learning | JavaScript | Python | R | Tableu
 
 ## About 👨‍💻:
 I am an aspiring big data who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
