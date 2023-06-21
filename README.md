@@ -47,6 +47,6 @@ I'm interested in full-time data science or machine learning roles.
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferkuellar&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferkuellar)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferkuellar&show_icons=true&locale=en" alt="ferkuellar" /></p>
 
