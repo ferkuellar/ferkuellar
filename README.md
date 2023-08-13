@@ -5,13 +5,11 @@
 Data Analyst | Machine Learning | Deep Learning | JavaScript | Python | R | Tableu
 
 ## About 👨‍💻:
-I am an aspiring big data who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
+Database Administrator with a Passion for Data, Algorithms, and Problem Solving.
 
-My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions.
-
-In my graduate studies, I’ve taken on various leadership roles, including mentoring three undergraduate interns, coordinating institute-wide research events for hundreds of people, and leading two journal clubs.
-
-I'm interested in full-time data science or machine learning roles.
+I'm a Big Data enthusiast skilled in Tableau, Python, Numpy, and Pandas. I excel at connecting ideas, teams, and industries to transform data into actionable insights. My technical prowess, coupled with a strong academic foundation in engineering, statistics, and machine learning, equips me to tackle complex challenges head-on.
+                        
+My focus lies in crafting tailored data solutions and algorithms to address business issues. I specialize in conveying intricate concepts to non-technical stakeholders. With a history of leadership roles during my graduate studies, I've mentored interns, organized research events, and led journal clubs, showcasing my adaptability and teamwork.
 
 ## Education 📖:
 
