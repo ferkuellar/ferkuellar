@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ferkuellar)
  
-Data Analyst | Machine Learning | Deep Learning | JavaScript | Python | R | Tableu
+Data Engineer | Junior Big Data | SQL DBA | JavaScript | Python/Numpy | R | Tableu | Transforming Data into Insights 💡
 
 ## About 👨‍💻:
 Database Administrator with a Passion for Data, Algorithms, and Problem Solving.
