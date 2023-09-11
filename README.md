@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ferkuellar)
  
-Data Engineer | Junior Big Data | SQL DBA | JavaScript | Python/Numpy | R | Tableu | Transforming Data into Insights 💡
+Data Engineer | Big Data | SQL | D3.js | Python / Numpy / Pandas | Tableau | Transforming Data into Insights 💡
 
 ## About 👨‍💻:
 Database Administrator with a Passion for Data, Algorithms, and Problem Solving.
@@ -19,14 +19,12 @@ My focus lies in crafting tailored data solutions and algorithms to address busi
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Python.
-- R.
+- Pandas.
+- NumPy.
 - SQL.
 - Tableu.
-- JavaScript.
+- D3.js.
 - Jupyter Notebooks.
-- Machine Learning.
-- Deep Learning.
-
 
 --------------------------------------
 
