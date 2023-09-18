@@ -5,7 +5,7 @@
 Data Engineer | Big Data | SQL | D3.js | Python / Numpy / Pandas | Tableau | Transforming Data into Insights 💡
 
 ## About 👨‍💻:
-Database Administrator with a Passion for Data, Algorithms, and Problem Solving.
+Data Engineer with a Passion for Data, Algorithms, and Problem Solving.
 
 I'm a Big Data enthusiast skilled in Tableau, Python, Numpy, and Pandas. I excel at connecting ideas, teams, and industries to transform data into actionable insights. My technical prowess, coupled with a strong academic foundation in engineering, statistics, and machine learning, equips me to tackle complex challenges head-on.
                         
