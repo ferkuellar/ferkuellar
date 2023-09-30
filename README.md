@@ -22,7 +22,7 @@ My focus lies in crafting tailored data solutions and algorithms to address busi
 - Pandas.
 - NumPy.
 - SQL.
-- Tableu.
+- Tableau.
 - D3.js.
 - Jupyter Notebooks.
 
