@@ -24,7 +24,7 @@ My focus lies in crafting tailored data solutions and algorithms to address busi
 - NumPy.
 - SQL.
 - Tableau.
-- D3.js.
+- R.
 - Jupyter Notebooks.
 
 --------------------------------------
