@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ferkuellar)
  
-Data Engineer | Big Data | SQL | D3.js | Python / Numpy / Pandas | Tableau | Transforming Data into Insights 💡
+Data Engineer | Big Data | SQL | R | Python / Numpy / Pandas | Tableau | Transforming Data into Insights 💡
 
 ## About 👨‍💻:
 Data Engineer with a Passion for Data, Algorithms, and Problem Solving.
