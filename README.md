@@ -18,7 +18,7 @@ My focus lies in crafting tailored data solutions and algorithms to address busi
 - Student at [U-Camp](https://ucamp.io/) (Edtech platform focused on programming, design and web development). - Trainig Finished
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
+- Data Scientist with **Python**.
 - Python.
 - Pandas.
 - NumPy.
