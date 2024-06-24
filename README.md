@@ -14,7 +14,6 @@ My focus lies in crafting tailored data solutions and algorithms to address busi
 ## Education 📖:
 
 - Student at [KeepCoding](https://keepcoding.io/) (High Performance Training Center in Programming and Technology.) - In Process
-- Student at [ Universidad Internacional de La Rioja](https://mexico.unir.net/ingenieria/maestria-big-data/) (Maestría en Análisis y Visualización de Datos Masivos – Big Data).- In Process
 - Student at [Colegio de Matematicas Bourbaki](https://www.colegio-bourbaki.com/) (Ciencia de Datos). - In Process
 - Student at [U-Camp](https://ucamp.io/) (Edtech platform focused on programming, design and web development). - Trainig Finished
 
