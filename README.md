@@ -13,7 +13,7 @@ My focus lies in crafting tailored data solutions and algorithms to address busi
 
 ## Education 📖:
 
-- Student at [KeepCoding](https://keepcoding.io/) (High Performance Training Center in Programming and Technology.) Bootcamp en Inteligencia Artificial - Traning In Process
+- Student at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/inteligencia-artificial-full-stack-bootcamp/)) (High Performance Training Center in Programming and Technology.) Bootcamp en Inteligencia Artificial - Traning In Process
 - Student at [KeepCoding](https://keepcoding.io/) (High Performance Training Center in Programming and Technology.) - Traning Finish
 - Student at [Colegio de Matematicas Bourbaki](https://www.colegio-bourbaki.com/) (Ciencia de Datos). - In Process
 - Student at [U-Camp](https://ucamp.io/) (Edtech platform focused on programming, design and web development). - Trainig Finished
