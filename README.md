@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ferkuellar)
  
-Data Scientis | Big Data | SQL | R | Python / Numpy / Pandas | Tableau | Transforming Data into Insights 💡
+Data Scientis | Big Data | SQL | R | Python / Numpy / Pandas | Tableau | Quantitative Developer | Transforming Data into Insights 💡
 
 ## About 👨‍💻:
 Data Scientis with a Passion for Data, Algorithms, and Problem Solving.
