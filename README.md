@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Fernando Cuellar</h1>
-<h3 align="center">Quant Developer | HFT Engineer | Python Programmer | Crypto Markets</h3>
+<h1 align="center">👋 Hola, soy Fernando Cuellar</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&multiline=true&color=00BFFF&center=true&vCenter=true&width=1000&lines=Quant+Developer+%7C+HFT+Engineer+%7C+Python+Coder;Real-Time+Trading+Bots+%7C+Binance+API+%7C+VWAP+%2F+SMA+%2F+Order+Flow;Alpha+Trade+AI+%7C+HyperScalpX+%7C+Scalping+%26+Market+Making;Backtesting+%7C+XGBoost+%7C+LSTM+%7C+Dockerized+Systems+%7C+pandas-ta" 
+    alt="Typing SVG" 
+    style="max-height: 400px;" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ferkuellar&label=Profile%20views&color=0e75b6&style=flat" alt="ferkuellar" />
 </p>
+
 
 ---
 
