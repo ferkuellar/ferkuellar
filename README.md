@@ -63,9 +63,10 @@
 
 ## 🎓 Education
 
+- 🎓 **Master of Science in Economic and Financial Engineering** - Universidad La Salle *(In Progress)*
 - 🎓 **KeepCoding** – AI Full-Stack Bootcamp *(Completed)*
 - 🎓 **KeepCoding** – Big Data, Machine Learning, DS *(Completed)*
-- 🧮 **Colegio Bourbaki** – Ciencia de Datos *(In Progress)*
+- 🧮 **Colegio Bourbaki** – Ciencia de Datos *(Completed)*
 - 💻 **U-Camp** – Full Stack Developer *(Completed)*
 
 ---
