@@ -9,19 +9,22 @@
 </p>
 
 ---
-
 ## 🧬 About Me
 
-I’m a **Quantitative Developer** with a strong foundation in **engineering, data science, and algorithmic trading**.  
-My focus lies in designing **systematic strategies** and **AI-driven trading architectures** that adapt to volatility, minimize risk, and exploit inefficiencies in financial markets.
+I’m a **Quantitative Developer** and **Crypto Enthusiast** with a strong foundation in **engineering, data science, and algorithmic trading**.  
+I'm deeply passionate about **cryptocurrencies**, **DeFi**, and the evolution of **digital money** — I firmly believe blockchain is reshaping the global financial system.
 
-🧠 **Core Areas:**
-- Market Making & High-Frequency Trading Systems (Binance / MT5 / Bybit)  
-- Deep Reinforcement Learning for trading signal optimization  
-- Risk-adjusted portfolio allocation and Monte Carlo simulation  
-- Pipeline orchestration (Docker · Python · SQL · AWS · Tableau)  
+My work focuses on designing **systematic trading strategies** and **AI-driven architectures** that adapt to volatility, minimize risk, and capture alpha in decentralized markets.  
+Beyond coding, I’m an **investor**, **DeFi advocate**, and **trading mentor**, committed to helping others understand the real mechanics behind sustainable and antifragile trading.
 
-🎯 My goal: blend **quantitative precision**, **machine learning**, and **execution intelligence** to create antifragile trading ecosystems.
+🧠 **Core Focus:**
+- Building autonomous bots for **Binance, Bybit, Pinescript and MT5**
+- **DeFi investment strategies** with real yield focus  
+- **Reinforcement Learning** and **Monte Carlo** validation for trading models  
+- Mentoring traders in **risk management**, **DeFi**, and **system design**
+
+💎 *“Cryptocurrencies aren’t just assets — they’re a revolution in how value moves through the world.”*
+
 
 ---
 
