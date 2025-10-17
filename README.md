@@ -1,4 +1,8 @@
-<h1 align="center">⚡ Fernando Cuéllar — Quantitative Developer & AI Engineer ⚡</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ferkuellar/ferkuellar/main/banner.png" alt="Fernando Cuellar Banner" width="100%" />
+</p>
+
+<h1 align="center">⚡ Fernando Cuéllar — Quant Developer | AI & Systematic Trading ⚡</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ferkuellar&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
@@ -8,21 +12,20 @@
 
 ## 🧬 About Me
 
-💡 Quantitative Developer passionate about **systematic trading**, **algorithmic intelligence**, and **data-driven decision making**.  
-I design and optimize **HFT architectures**, modular trading bots, and **AI pipelines** for cryptocurrency, FX, and commodities markets.
+I’m a **Quantitative Developer** with a strong foundation in **engineering, data science, and algorithmic trading**.  
+My focus lies in designing **systematic strategies** and **AI-driven trading architectures** that adapt to volatility, minimize risk, and exploit inefficiencies in financial markets.
 
-🧠 My focus:
-- Reinforcement Learning & LSTM signal modeling  
-- Grid & Market Making automation  
-- Statistical arbitrage and Monte Carlo validation  
-- Backtesting, slippage control, and antifragile execution
+🧠 **Core Areas:**
+- Market Making & High-Frequency Trading Systems (Binance / MT5 / Bybit)  
+- Deep Reinforcement Learning for trading signal optimization  
+- Risk-adjusted portfolio allocation and Monte Carlo simulation  
+- Pipeline orchestration (Docker · Python · SQL · AWS · Tableau)  
 
-🧩 Founder of **AlphaTradeAI** — R&D Lab for algorithmic trading systems  
-⚙️ Creator of **HyperScalpX**, **Turtle Trading v2 [FK]**, and custom Binance/MT5 bridges  
+🎯 My goal: blend **quantitative precision**, **machine learning**, and **execution intelligence** to create antifragile trading ecosystems.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -40,53 +43,55 @@ I design and optimize **HFT architectures**, modular trading bots, and **AI pipe
 
 ---
 
-## 🎓 Education
+## 🧩 Flagship Projects
 
-🎓 **MSc in Economic and Financial Engineering** — *Universidad La Salle* (In Progress)  
-🎓 **AI Full Stack Bootcamp** — *KeepCoding* (Completed)  
-🎓 **Big Data, ML & DS Program** — *KeepCoding* (Completed)  
-🎓 **Data Science Program** — *Colegio Bourbaki* (Completed)  
-💻 **Full Stack Developer Program** — *U-Camp* (Completed)  
+### 🧠 AlphaTradeAI  
+> **AI-Powered Trading Research Lab** — systematic crypto & forex strategy automation  
+- Hybrid models: Gradient Boosting + RL + Wyckoff logic  
+- Live execution with slippage control · Binance API integration  
+- Full statistical metrics (Sharpe, Sortino, Expectancy, Max Drawdown)
 
 ---
 
-## 🧩 Flagship Projects
+### ⚡ HyperScalpX  
+> **High-Frequency Scalping Engine** — VWAP · Order Flow · ATR-based Stops  
+- Multi-asset execution on Futures (BTC / XAUUSD / ETH)  
+- Custom volume delta and liquidity heatmap filters  
+- Modular UI with real-time PnL and risk dashboard  
 
-### 🧠 AlphaTradeAI
-> *Research & Development lab for systematic crypto trading*
+---
 
-- Machine Learning–powered alpha generation (BTC, ETH, SOL)  
-- Modular design with backtesting + live execution bridge  
-- Full KPI monitoring (Sharpe, Sortino, Drawdown, Expectancy)  
+### 🐢 Turtle Trading v2 [FK]  
+> **Institutional Donchian Breakout System (20 / 55 Days)**  
+- ATR dynamic risk model + MA200 trend filter  
+- Smart pyramiding up to 3 units · Webhooks · Panel HUD  
+- Dual implementation in Pine Script v6 & MQL5  
 
-### ⚡ HyperScalpX
-> *High-Frequency Scalping Engine*
+---
 
-- VWAP, order flow, and volatility clustering filters  
-- ATR-based dynamic risk control with real-time logs  
-- Configurable paper/live trading modes for Binance Futures  
+### 📈 Trading Journal + Tableau Dashboard  
+> **Automated trade tracking and performance visualization**  
+- Logs from Binance / Bybit API with PnL and MAE / MFE tracking  
+- Tableau dashboards for profitability insights and behavioral analysis  
+- Weekly KPI export for quant reporting and Monte Carlo validation  
 
-### 🐢 Turtle Trading v2 [FK]
-> *Modern Donchian Breakout System (20/55 Days)*
+---
 
-- Adaptive ATR stop management and MA200 trend filter  
-- Smart pyramiding (max 3 positions)  
-- Backtest-ready logic, visual HUD, and webhook alerts  
+## 🎓 Education
 
-### 📈 Trading Journal + Tableau Dashboard
-> *Performance analytics suite for manual and algo trading*
-
-- Auto-logs from exchanges + API sync  
-- Tracks MAE/MFE, hit ratio, and profit factor  
-- Tableau dashboards for performance insights  
+🎓 **MSc in Economic and Financial Engineering** — Universidad La Salle *(In Progress)*  
+🎓 **AI Full Stack Bootcamp** — KeepCoding *(Completed)*  
+🎓 **Big Data · ML · DS Program** — KeepCoding *(Completed)*  
+🎓 **Data Science Program** — Colegio Bourbaki *(Completed)*  
+💻 **Full Stack Developer Program** — U-Camp *(Completed)*  
 
 ---
 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferkuellar&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ferkuellar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferkuellar&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferkuellar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
