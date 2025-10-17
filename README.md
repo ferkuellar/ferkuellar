@@ -40,6 +40,17 @@
 
 
 
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master of Science in Economic and Financial Engineering** - Universidad La Salle *(In Progress)*
+- 🎓 **KeepCoding** – AI Full-Stack Bootcamp *(Completed)*
+- 🎓 **KeepCoding** – Big Data, Machine Learning, DS *(Completed)*
+- 🧮 **Colegio Bourbaki** – Ciencia de Datos *(Completed)*
+- 💻 **U-Camp** – Full Stack Developer *(Completed)*
+
 ---
 
 ## 📦 Highlight Projects
@@ -59,15 +70,16 @@
 - 🧮 Metrics: MAE/MFE, Profit Factor, Hit Ratio.
 - 📊 Weekly summary with performance visualization in Tableau.
 
----
+### 🐢 Turtle Trading v2 [FK] ###
 
-## 🎓 Education
+- 📈 Estrategia de ruptura Donchian (20/55 días)
+- 🧠 Gestión de riesgo dinámica basada en ATR
+- 🟩 Filtro de tendencia con MA200
+- 🔁 Piramidación inteligente hasta 3 unidades
+- 🚨 Alertas automáticas compatibles con webhooks
+- 🖥️ HUD lateral + semáforo central
+- 🧩 Código limpio, optimizado para backtesting y bots
 
-- 🎓 **Master of Science in Economic and Financial Engineering** - Universidad La Salle *(In Progress)*
-- 🎓 **KeepCoding** – AI Full-Stack Bootcamp *(Completed)*
-- 🎓 **KeepCoding** – Big Data, Machine Learning, DS *(Completed)*
-- 🧮 **Colegio Bourbaki** – Ciencia de Datos *(Completed)*
-- 💻 **U-Camp** – Full Stack Developer *(Completed)*
 
 ---
 
