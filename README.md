@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ferkuellar/ferkuellar/main/banner.png" alt="Fernando Cuellar Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ Principal Cloud Architect | Solutions Architect (OCI + Multicloud) ⚡</h1>
+<h1 align="center">⚡ Principal Cloud Architect | OCI (WebLogic, HA/DR) | Enterprise Architecture & Customer Escalations | AWS + Azure ⚡</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ferkuellar&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
