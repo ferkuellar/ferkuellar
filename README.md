@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferkuellar/ferkuellar/main/banner.png" alt="Fernando Cuellar Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ferkuellar/ferkuellar/main/bannergithub.png" alt="Fernando Cuellar Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ Principal Cloud Architect | OCI (WebLogic, HA/DR) | Enterprise Architecture & Customer Escalations | AWS + Azure ⚡</h1>
