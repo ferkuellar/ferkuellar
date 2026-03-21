@@ -46,8 +46,12 @@ My background includes deep support for **Oracle workloads**, especially **WebLo
   <img src="https://img.shields.io/badge/IAM-2E2E2E?style=flat-square&logo=okta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-0B5FFF?style=flat-square&logo=cisco&logoColor=white"/>
 
-  <!-- IaC / Automation -->
+  <!-- IaC / DevOps / Automation -->
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-1F2937?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
 
