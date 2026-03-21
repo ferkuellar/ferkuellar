@@ -12,22 +12,24 @@
 
 ## 🧬 About Me
 
-I’m a **Principal Cloud Architect / Solutions Architect** specializing in **Oracle Cloud Infrastructure (OCI)** and **multicloud (AWS/Azure)**. I design and lead **enterprise, mission-critical platforms**—especially **Oracle workloads (WebLogic + database ecosystems)**—with a focus on **resilience (HA/DR)**, **security guardrails**, **observability**, and **operability at scale**.
+Principal Cloud Architect / Solutions Architect with a strong **DevOps and platform engineering** focus, specializing in **OCI** and **multicloud environments across AWS and Azure**. I design **mission-critical cloud platforms** built for **resilience, security, observability, governance, and operational readiness**.
 
-In customer-facing roles, I serve as the technical authority when it matters most: **architecture decisions**, **executive-level conversations**, and **high-priority escalations** for complex Oracle environments. I translate failure modes and risk into clear **options, trade-offs, and action plans** engineering teams can execute quickly.
+My focus is simple: turn complex architecture into **deployable, supportable, recoverable, and scalable cloud operating models**. I use **Terraform, automation, CI/CD discipline, and operational guardrails** to reduce risk, improve repeatability, and help engineering teams execute with confidence.
 
-🧠 **What I Deliver (Enterprise Cloud / OCI):**
-- **HA/DR architectures** driven by **RTO/RPO** targets (design + DR runbooks + recovery readiness)
-- **Landing zones, governance, and security guardrails** (IAM, network patterns, policy-as-code)
-- **Networking, identity, load balancing, and platform design** for Oracle workloads
-- **Observability**: metrics/logs/alerts, **SLO-oriented dashboards**, and incident response workflows
-- **Capacity planning, performance architecture, and cost optimization (FinOps)**
+My background includes deep support for **Oracle workloads**, especially **WebLogic and database ecosystems**, as well as broader cloud platform domains such as **landing zones, networking, identity, monitoring, recovery readiness, and infrastructure standardization**.
 
-I standardize delivery using **Infrastructure as Code (Terraform)** and automation (**Python/Shell**) to reduce operational risk, improve repeatability, and make platforms **supportable—not just deployable**.
+### What I Deliver
+- **HA/DR architectures** driven by **RTO/RPO**
+- **Landing zones, governance, and security guardrails**
+- **Networking, identity, and platform design** for critical workloads
+- **Observability** with logs, metrics, alerts, dashboards, and incident workflows
+- **DevOps enablement** through **Terraform, CI/CD, automation, and repeatable deployment models**
+- **Capacity planning, performance architecture, and FinOps**
 
-🎯 **Open to US-remote** Principal / Lead Solutions Architect roles focused on **OCI**, **mission-critical architecture**, **HA/DR**, **governance**, and **FinOps**.
+### Core
+`OCI` • `AWS` • `Azure` • `DevOps` • `Terraform` • `CI/CD` • `HA/DR` • `Governance` • `Security` • `Observability` • `Automation` • `FinOps`
 
-💎 *“Good cloud architectures don’t just scale — they survive.”*
+> *Good cloud architectures don’t just scale — they survive.*
 
 ---
 
