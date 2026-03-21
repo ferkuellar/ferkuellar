@@ -36,66 +36,20 @@ My background includes deep support for **Oracle workloads**, especially **WebLo
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-
-  <!-- Oracle Platform / Ops -->
-  <img src="https://img.shields.io/badge/WebLogic-000000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-2E2E2E?style=flat-square&logo=okta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-0B5FFF?style=flat-square&logo=cisco&logoColor=white"/>
-
-  <!-- IaC / DevOps / Automation -->
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-1F2937?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-
-  <!-- Observability / Reliability -->
-  <img src="https://img.shields.io/badge/Observability-111111?style=flat-square&logo=opentelemetry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SRE-555555?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FinOps-0A0A0A?style=flat-square&logo=awsorganizations&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCI-1A1A1A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Azure-1A1A1A?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/Terraform-1A1A1A?style=for-the-badge&logo=terraform&logoColor=844FBA"/>
+  <img src="https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
+  <img src="https://img.shields.io/badge/Jenkins-1A1A1A?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Shell-1A1A1A?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Observability-1A1A1A?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SRE-1A1A1A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FinOps-1A1A1A?style=for-the-badge&logo=awsorganizations&logoColor=white"/>
 </p>
-
----
-
-## 🧩 Flagship Projects
-
-### 🏛️ OCI Mission-Critical Landing Zone (Governance + Security Guardrails)
-> **Enterprise-grade OCI foundation** for regulated and high-availability workloads  
-- Identity and access patterns (**compartments, IAM policies, least privilege**)  
-- Network architecture (**VCNs, subnets, routing, segmentation**) with standard patterns  
-- Guardrails and repeatability using **Terraform** (policy-as-code mindset)  
-- Designed for operability: logging/monitoring hooks, standardized naming/tagging
-
----
-
-### 🔥 HA/DR Blueprint for Oracle Workloads (RTO/RPO-Driven)
-> **Reference architecture + DR runbooks** for WebLogic and database ecosystems  
-- DR strategy aligned to **RTO/RPO** targets with clear trade-offs  
-- **Runbooks** for recovery readiness + validation drills  
-- Architecture decisions explained as failure-mode mitigation (not “because best practice”)  
-- Built to be supportable under pressure: “when everything’s on fire” clarity
-
----
-
-### 📈 SLO-Based Observability & Incident Response (Oracle Platforms)
-> **Metrics/logs/alerts + SLO dashboards** for operational excellence  
-- SLO-oriented dashboards and alerting that reduce noise and speed MTTR  
-- Incident workflows: triage, escalation paths, postmortems, and action tracking  
-- Focus on operability: “you can’t fix what you can’t see”
-
----
-
-### 💸 FinOps + Capacity Planning for Enterprise Platforms
-> **Cost optimization + performance architecture** without breaking reliability  
-- Workload right-sizing guided by utilization and growth trends  
-- Cost allocation hygiene, operational guardrails, and practical savings levers  
-- Performance and cost treated as architecture inputs, not afterthoughts
 
 ---
 
